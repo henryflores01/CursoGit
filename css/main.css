@@ -21,3 +21,9 @@ body
     padding: 0;
     background-color: antiquewhite;
 }
+
+h1
+{
+    color: red;
+    font-weight: bold;
+}
